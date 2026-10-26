@@ -1,5 +1,7 @@
 # A Mechanistic Interpretation of Prescribed-Parameter Convolutional Kernels
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23672114.svg)](https://doi.org/10.5281/zenodo.23672114)
+
 Companion code for *A Mechanistic Interpretation of Prescribed-Parameter Convolutional Kernels*, being prepared as a new version of the preprint [arXiv:2502.17061](https://arxiv.org/abs/2502.17061). This repository supports that forthcoming revision. The experiments also form part of Chapter 3 of the associated thesis.
 
 The experiments examine how the number and length of convolutional kernels affect effective dimensionality (ED), distance correlation (dCor), and classification accuracy.
@@ -142,8 +144,8 @@ The analyses use the full training sets. ED and pairwise-distance calculations c
 ## Software author and citation
 
 The software author is **Jorge Marco Blanco**. Citation metadata is provided in
-[`CITATION.cff`](CITATION.cff). The archived release DOI and version will be added
-once the release has been published.
+[`CITATION.cff`](CITATION.cff). The archived release is **v1.0.0**, published on 26 October 2026.
+Cite the version DOI: [10.5281/zenodo.23672114](https://doi.org/10.5281/zenodo.23672114).
 
 The upstream ROCKET authors and their work are acknowledged below.
 
