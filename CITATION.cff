@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata in this file.
+type: software
+title: 'A Mechanistic Interpretation of Prescribed-Parameter Convolutional Kernels: Companion
+  Code'
+authors:
+- given-names: Jorge
+  family-names: Marco Blanco
+abstract: Companion software for experiments on prescribed-parameter convolutional kernels,
+  including PPV-only unit-energy ROCKET features, effective dimensionality, distance correlation,
+  and classification accuracy. The experiments form part of Chapter 3 of the associated thesis.
+keywords:
+- time series classification
+- ROCKET
+- random convolutional kernels
+- interpretability
+- reproducibility
+repository-code: https://github.com/jorgemarcoes/prescribed-kernel-interpretability
+license: GPL-3.0-only
+version: 1.0.0

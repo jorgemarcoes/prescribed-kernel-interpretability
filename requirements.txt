@@ -1,0 +1,11 @@
+# Direct dependencies from the local Python 3.10.22 environment inspected
+# during release preparation. Not a record of the original experiment environment.
+numpy==1.24.3
+numba==0.59.1
+scipy==1.12.0
+scikit-learn==1.4.2
+pandas==2.0.3
+aeon==0.7.1
+matplotlib==3.10.9
+seaborn==0.13.2
+PyYAML==6.0.3

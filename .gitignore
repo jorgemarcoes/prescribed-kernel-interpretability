@@ -1,0 +1,16 @@
+# Python and local environments
+.venv/
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.pytest_cache/
+# Downloaded datasets; retain the metadata used by the analyses.
+/data/*
+!/data/metadata.csv
+# Regenerable figures
+/reports/
+# Local configuration
+.env
+.env.*
+.DS_Store

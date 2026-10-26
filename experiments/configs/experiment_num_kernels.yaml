@@ -1,0 +1,7 @@
+experiment_name: "metrics_vs_kernels"
+datasets: "all"
+
+param_grid:
+  kernel_lengths: [[7, 9, 11]]
+  num_kernels: [100,500,1000,2000,5000,10000]
+
